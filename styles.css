@@ -46,7 +46,7 @@ h2 {font-size:clamp(22px,3.4vw,30px);margin:36px 0 12px;text-align:center;}
 .card p {margin:0;color:var(--muted);}
 .pill {display: inline-flex;align-items: center;gap: 6px;margin-top: 10px;padding: 6px 12px; border-radius: 999px;background: var(--pill);color: var(--accent);
   font-size: .85rem;font-weight: 500;line-height: 1.4;}
-.pill-icon {width: 18px; height: 18px; object-fit: contain; flex-shrink: 0;}
+.pill-icon {width: 16px; height: 16px; object-fit: contain; flex-shrink: 0;}
 
 .about .facts {list-style:none;padding:0;margin:10px 0 0;display:grid;gap:8px;}
 .contact {padding-bottom:60px;text-align:center;}
